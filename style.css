@@ -1,0 +1,10 @@
+.heading {
+    text-weight: bold;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.small {
+    color: red;
+}
